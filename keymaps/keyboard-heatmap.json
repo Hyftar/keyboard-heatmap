@@ -1,0 +1,6 @@
+{
+  "atom-workspace": {
+    "ctrl-alt-h": "keyboard-heatmap:toggleView",
+    "ctrl-alt-k": "keyboard-heatmap:toggleKeyLogger"
+  }
+}

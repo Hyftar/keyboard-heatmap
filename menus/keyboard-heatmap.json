@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle keyboard-heatmap",
+        "command": "keyboard-heatmap:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "keyboard-heatmap",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "keyboard-heatmap:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
