@@ -1,7 +1,7 @@
 {
   "name": "keyboard-heatmap",
   "main": "./lib/keyboard-heatmap",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "An atom package to visualize how you have been using your keyboard",
   "keywords": [
     "keyboard",
@@ -12,12 +12,13 @@
     "map",
     "heat"
   ],
-  "activationHooks": ["core:loaded-shell-environment"],
+  "activationHooks": [
+    "core:loaded-shell-environment"
+  ],
   "repository": "https://github.com/hyftar/keyboard-heatmap",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
