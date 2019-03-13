@@ -1,7 +1,7 @@
 {
   "name": "keyboard-heatmap",
   "main": "./lib/keyboard-heatmap",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "An atom package to visualize how you have been using your keyboard",
   "keywords": [
     "keyboard",
